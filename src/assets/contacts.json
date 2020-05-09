@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "firstName": "Daniel",
+        "lastName": "Trujillo",
+        "email": "dtrujillo859@gmail.com",
+        "phone": "(559) 222-2222",
+        "editing": false
+    },
+    {
+        "id": 2,
+        "firstName": "Mike",
+        "lastName": "Tyson",
+        "email": "Mikechamp@gmail.com",
+        "phone": "(559) 222-8423",
+        "editing": false
+    },
+    {
+        "id": 3,
+        "firstName": "Joe",
+        "lastName": "Biden",
+        "email": "jbiden@gmail.com",
+        "phone": "(559) 222-9077",
+        "editing": false
+    }
+]
